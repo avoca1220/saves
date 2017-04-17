@@ -1,0 +1,45 @@
+{
+  "exteriorID": 1,
+  "previousLocationName": "Overworld",
+  "currentLocationName": "Overworld",
+  "travelToLocation": {
+    "x": 171,
+    "y": 66,
+    "z": 110
+  },
+  "currentOwner": "02bd0968-dadb-42da-8150-593ab5e435bd",
+  "doorRotation": 0.0,
+  "spawnFacing": 90.0,
+  "tardisID": 1,
+  "tardisInteriorPosition": [
+    1,
+    0
+  ],
+  "owner": "Chubbis1220",
+  "isInFlight": false,
+  "exteriorType": "",
+  "interiorType": "",
+  "companions": [],
+  "tardisPermissions": "NOBODY",
+  "forcefieldsEnabled": false,
+  "isLocked": false,
+  "tardisInteriorDoorLocation": {
+    "x": 91,
+    "y": 70,
+    "z": 18
+  },
+  "tardisDimensionLocation": 0,
+  "currentTardisPosition": {
+    "x": 181,
+    "y": 65,
+    "z": 116
+  },
+  "previousTardisPosition": {
+    "x": 170,
+    "y": 66,
+    "z": 108
+  },
+  "tardisPreviousDimensionLocation": 0,
+  "doorOpen": false,
+  "hasFallen": false
+}
