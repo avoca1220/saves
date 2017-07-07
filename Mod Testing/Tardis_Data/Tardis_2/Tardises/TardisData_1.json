@@ -2,13 +2,8 @@
   "exteriorID": 1,
   "previousLocationName": "Overworld",
   "currentLocationName": "Overworld",
-  "travelToLocation": {
-    "x": 171,
-    "y": 66,
-    "z": 110
-  },
   "currentOwner": "02bd0968-dadb-42da-8150-593ab5e435bd",
-  "doorRotation": 0.0,
+  "doorRotation": 0.8099997,
   "spawnFacing": 90.0,
   "tardisID": 1,
   "tardisInteriorPosition": [
@@ -30,14 +25,14 @@
   },
   "tardisDimensionLocation": 0,
   "currentTardisPosition": {
-    "x": 181,
-    "y": 65,
-    "z": 116
+    "x": 62,
+    "y": 83,
+    "z": 64
   },
   "previousTardisPosition": {
-    "x": 170,
-    "y": 66,
-    "z": 108
+    "x": 62,
+    "y": 83,
+    "z": 64
   },
   "tardisPreviousDimensionLocation": 0,
   "doorOpen": false,
